@@ -1,5 +1,3 @@
-### 👋
-
 ![Kris Huang's github stats](https://github-readme-stats.vercel.app/api?username=jindada1&show_icons=true&theme=swift)
 
 <!--
