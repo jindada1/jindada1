@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+![Kris Huang's github stats](https://github-readme-stats.vercel.app/api?username=jindada1&show_icons=true&theme=swift)
 
 <!--
 **jindada1/jindada1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
